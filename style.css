@@ -393,7 +393,7 @@ nav li:hover a{
     margin-top: -5px;
 }
 .partner img{
-    max-width: 100%;
+    width: 100%;
 }
 .partner button{
     transition: .3s;
@@ -999,6 +999,7 @@ nav li:hover a{
 /* ! FOOTER end */
 
 /* ! RESPONSIVE start */
+
 @media (max-width: 1024.5px){
     nav ul {
         width: 70%;
