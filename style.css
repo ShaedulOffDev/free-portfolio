@@ -1217,7 +1217,7 @@ nav li:hover a{
         height: 60px;
     }
     .brands img{
-        width: 100px;
+        width: clac(100% / 3);
     }
     #form{
         padding: 0;
